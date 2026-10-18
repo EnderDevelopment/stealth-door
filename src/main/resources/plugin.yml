@@ -1,0 +1,10 @@
+name: StealthDoor
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin to track standard door placement, link to camouflage blocks, toggle visibility on interaction, and auto-close after 5 seconds.
+api-version: "1.21"
+commands:
+  stealthdoor:
+    description: Main command for StealthDoor plugin.
+    usage: /stealthdoor
